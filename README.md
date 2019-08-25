@@ -1,9 +1,9 @@
 # Ejercicios Estructuras de Control
 
-Nombre:
+Nombre: Owen Rivaldo Atamari Aldazabal
 --
 
-Github Username:
+Github Username: the_owex
 --
 
 Instrucciones:
