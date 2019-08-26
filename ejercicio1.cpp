@@ -10,7 +10,7 @@ vector<int> leerConsola();
 vector<int> leerConsola() {
     //Ingrese un numero positivo, escriba -1 si ya no quiere ingresar mas numeros:
     vector<int> valores;
-    int temp = 0;
+    int temp;
     while(1) {
         cin >> temp;
         if(temp != -1)
