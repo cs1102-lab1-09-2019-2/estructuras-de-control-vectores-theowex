@@ -3,7 +3,7 @@
 Nombre: Owen Rivaldo Atamari Aldazabal
 --
 
-Github Username: the_owex
+Github Username: theowex
 --
 
 Instrucciones:
