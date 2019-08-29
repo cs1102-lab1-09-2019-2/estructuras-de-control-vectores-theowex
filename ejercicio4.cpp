@@ -10,7 +10,6 @@ Escribir un programa que imprima lo siguiente:
 
 #include <iostream>
 
-
 using std::cout;
 
 int main() {
