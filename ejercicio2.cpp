@@ -73,7 +73,7 @@ int main() {
     cout<<"La moda es: "<<moda_elemento<<"\n";
 }
 
-/*
+/* //FORMA EXPLICACADA EN CLASE
 #include <iostream>
 #include <vector>
 #include <unordered_map>
